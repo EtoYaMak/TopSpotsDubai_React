@@ -1,0 +1,90 @@
+[
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com//subcategories/LuxuryCityHotels/a5b9714a-5553-4da1-8a56-aac547e482fa.webp",
+    "h1Text": "Luxury City Hotels",
+    "rating": 5,
+    "type": "Hotels"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com//subcategories/LuxuryFamilyResorts/c10dd83b-e365-4d24-8589-1674f5d4faab.webp",
+    "h1Text": "Luxury Family Resorts",
+    "rating": 5,
+    "type": "Hotels"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com//subcategories/LuxuryBeachResorts/ce2ca42a-1307-42e4-bd1e-78aa2a6fc047.webp",
+    "h1Text": "Luxury Beach Resorts",
+    "rating": 5,
+    "type": "Hotels"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com//subcategories/BeachResorts/72fb9e02-8c9e-475f-a730-238f5be46de4.webp",
+    "h1Text": "Beach Resorts",
+    "rating": 5,
+    "type": "Hotels"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com//subcategories/CityHotels/1d91a1d4-24c9-47fe-be69-0b9efb647f72.webp",
+    "h1Text": "City Hotels",
+    "rating": 5,
+    "type": "Hotels"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com//subcategories/BusinessHotels/ca74bf38-6f40-450b-8f54-6ab3cfae9a02.webp",
+    "h1Text": "Business Hotels",
+    "rating": 5,
+    "type": "Hotels"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com//subcategories/PartyHotels/9047e904-0f50-4366-91dd-b5cf31d6c354.webp",
+    "h1Text": "Party Hotels",
+    "rating": 5,
+    "type": "Hotels"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com//subcategories/NewestHotels/13ee6264-164f-4852-8f77-86b0a75f5274.webp",
+    "h1Text": "Newest Hotels",
+    "rating": 5,
+    "type": "Hotels"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com//subcategories/HotelsNearDubai/475aa840-8c3d-4464-8827-758969b2ab40.webp",
+    "h1Text": "Hotels Near Dubai in Dubai",
+    "rating": 5,
+    "type": "Hotels"
+  },
+
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com//subcategories/BeachServicedApartments/918d1052-2cdf-4585-8fa1-78cc7d8ff6e1.webp",
+    "h1Text": "Beach Serviced Apartments",
+    "rating": 5,
+    "type": "Serviced Apartments"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com//subcategories/CityServicedApartments/beb605c3-0cfa-4341-8b68-932662ada4fa.webp",
+    "h1Text": "City Serviced Apartments",
+    "rating": 5,
+    "type": "Serviced Apartments"
+  },
+
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com//subcategories/4StarHotels/e7eb8c7b-1ab0-4fa2-9637-803ff0480c22.webp",
+    "h1Text": "4 Star Hotels",
+    "rating": 4,
+    "type": "Hotels"
+  },
+
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com//subcategories/ServicedApartments/b0d02011-e895-41be-9982-3dccb96e3c73.webp",
+    "h1Text": "Serviced Apartments",
+    "rating": 4,
+    "type": "Serviced Apartments"
+  },
+
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com//subcategories/3StarHotels/653ac468-ca31-43fe-a724-a93cdd62de76.webp",
+    "h1Text": "3 Star Hotels",
+    "rating": 3,
+    "type": "Hotels"
+  }
+]
