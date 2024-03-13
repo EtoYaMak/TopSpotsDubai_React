@@ -1,0 +1,30 @@
+[
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com/subcategories/Nightlife/0efd0cae-41b7-416a-abf8-ae1bf8bed62d.webp",
+    "h1Text": "Nightlife"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com/subcategories/Beach%26PoolClubs/e831c13c-7842-411b-b0da-754f4c0eca32.jpg",
+    "h1Text": "Beach & Pool Clubs"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com/subcategories/Shisha/d8e919f3-ee5d-4c7a-94fd-86d7f86a86fb.jpg",
+    "h1Text": "Shisha"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com/subcategories/Spas/f5640c72-6f8b-4c1a-a18e-2e9cb11c4efd.jpg",
+    "h1Text": "Spas"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com/subcategories/Golf/c31543c0-b11b-4585-8626-29ba6173e484.webp",
+    "h1Text": "Golf"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com//TopPlaces/Shopping/Malls/MallofEmirates/bbcd3cda-a717-4d62-9031-0aea74431ab8.webp",
+    "h1Text": "Shopping"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com//subcategories/DiningDestinations/77b78dae-33f6-4260-8724-660e4574b155.webp",
+    "h1Text": "Dining Destinations"
+  }
+]

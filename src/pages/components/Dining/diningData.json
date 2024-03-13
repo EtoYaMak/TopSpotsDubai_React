@@ -4,5 +4,77 @@
     "h1Text": "Rooftop",
     "price": 3,
     "type": "Rooftop"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com/subcategories/Unique/31134ace-b8cf-48c3-8a50-a5df0497b777.jpg",
+    "h1Text": "Unique",
+    "price": 3,
+    "type": "Unique"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com/subcategories/Upscale/0f395918-8ce2-440b-9f47-505937c2f317.jpg",
+    "h1Text": "Upscale",
+    "price": 3,
+    "type": "Upscale"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com//subcategories/Upscale%2526Lively/e2487498-9264-4849-bbd6-b93494ea4467.webp",
+    "h1Text": "Upscale & Lively",
+    "price": 3,
+    "type": "Upscale & Lively"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com/subcategories/Romantic/9f74fe1a-06ed-4370-aeff-665d59c1ddf9.jpg",
+    "h1Text": "Romantic",
+    "price": 3,
+    "type": "Romantic"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com/subcategories/Upscale%26FamilyFriendly/312645ff-c911-487d-8c6a-08fb8757d56b.jpg",
+    "h1Text": "Upscale & Family Friendly",
+    "price": 3,
+    "type": "Upscale & Family Friendly"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com/subcategories/Outdoor/5d3f1460-603c-42f9-ad46-c59032d4057d.jpg",
+    "h1Text": "Outdoor",
+    "price": 3,
+    "type": "Outdoor"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com/subcategories/Beachfront/17ee6e80-29b6-440c-a079-cd8805d61866.jpg",
+    "h1Text": "Beachfront",
+    "price": 3,
+    "type": "Beachfront"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com//subcategories/Party/06f812ff-714e-4739-947f-2f2ff8ec1491.webp",
+    "h1Text": "Party",
+    "price": 3,
+    "type": "Party"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com/subcategories/Seafood/8d9ee3b1-9eab-4632-99b4-a1c77c7882cb.jpg",
+    "h1Text": "Seafood",
+    "price": 3,
+    "type": "Seafood"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com/subcategories/Steak/a9e86770-c7ba-4f78-8077-b43fcf2f07fb.jpg",
+    "h1Text": "Steak",
+    "price": 3,
+    "type": "Steak"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com/subcategories/LiveEntertainment/bd42a012-603e-44e7-90af-ddef4f0211b1.png",
+    "h1Text": "Live Entertainment",
+    "price": 3,
+    "type": "Live Entertainment"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com/subcategories/OldbutGold/6f2e2529-960d-4e0d-afc2-438043833b53.jpg",
+    "h1Text": "Old but Gold",
+    "price": 3,
+    "type": "Old but Gold"
   }
 ]

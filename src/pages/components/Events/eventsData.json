@@ -1,0 +1,42 @@
+[
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com//EventsCalendar/PermanentEvents/DubaiOpera/25d63b18-61ca-4ef2-a3e0-95c5e7304b03.webp",
+    "h1Text": "Dubai Opera",
+    "h2Text": "@Dubai Opera, Downtown",
+    "date": "",
+    "time": "",
+    "type": "featured"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com///PermanentEvents/LaPerle//e16c25a4-b97e-4a17-b340-ce278496d3b4.webp",
+    "h1Text": "La Perle",
+    "h2Text": "@Al Habtoor City",
+    "date": "",
+    "time": "",
+    "type": "featured"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com///PermanentEvents/ToDA//4e187fe5-a9f8-41a5-99b7-b1cea6c823aa.webp",
+    "h1Text": "Theatre of Digital Art (ToDa)",
+    "h2Text": "@Souk Madinat Jumeirah Dubai",
+    "date": "",
+    "time": "",
+    "type": "featured"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com///SeasonalEvents/MiracleGarden//dec27e35-1099-4ea4-9ddb-296092311d06.webp",
+    "h1Text": "Miracle Garden",
+    "h2Text": "@Miracle Garden",
+    "date": "30 SEP - 29 APR",
+    "time": "",
+    "type": "seasonal"
+  },
+  {
+    "imgSrc": "https://topspots-bucket.s3.eu-central-1.amazonaws.com///SeasonalEvents/GlobalVillage//4549d3b9-8ef4-49aa-9b67-d8b0d465d11e.webp",
+    "h1Text": "Global Village",
+    "h2Text": "@Global Village Dubai",
+    "date": "17 OCT - 27 APR",
+    "time": "8PM - 12 PM",
+    "type": "seasonal"
+  }
+]

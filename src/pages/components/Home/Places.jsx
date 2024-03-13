@@ -1,16 +1,16 @@
 import React from "react";
-import Hotels from "./Hotels";
+import All from "../Places/All";
 function Places() {
   return (
-    <div className="mt-4">
-      <h2 className="text-5xl text-black text-center">
-        INCOMPLETE THIS POINT ONWARDS
-      </h2>
-      <h1 className="text-3xl text-cyan-500 text-center font-bold">PLACES</h1>
-      <h2 className="text-5xl text-black text-center">
-        RENDERED HOTELS THROUGHOUT FOR LOAD TEST
-      </h2>
-      <Hotels />
+    <div className="relative w-[90%] rounded-t-xl flex flex-col font-Montserrat mx-auto bg-white top-[4vw] ">
+      <h1 className="text-[#f16565] text-[1.3em] md:text-[1.7em] lg:text-[2em] font-extrabold mx-4 w-fit h-fit ">
+        Top Dining Spots in Dubai
+      </h1>
+
+      {/* Render the selected component based on filterTab */}
+      <div className="bg-white">
+        <All />
+      </div>
     </div>
   );
 }
